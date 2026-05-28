@@ -1,5 +1,11 @@
 # Sistema Web de Clínica Dental con Django
 
+## Integrantes
+
+- Velasquez Puma Brigitte Karolay
+- Ticona Nina Valeria Abigai
+- Lerma Ccopa Jhonatan Javier
+
 ## Descripción del proyecto
 
 Este proyecto consiste en el desarrollo de una aplicación web orientada a la administración de una clínica dental utilizando el framework Django.
